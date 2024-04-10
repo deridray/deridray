@@ -16,5 +16,18 @@ in summer 2022 i made a database for a cafe site with my friend
 in february 2023 my friend told me abt linux, and i tried it(first 2 attempts of using linux was terrible)
 at the end of 2023 i do 3rd attempt for linux, and, luckily, i loved it so much(thanks, qugalet)
 ------------------------------------------------------------------------------------------
-*all socials in bio (solo.to/deridray)*
+>>> pc specs/devices
+laptop: acer aspire a315-53g-53qx
+monitor: samsung c27r500fhi
+
+mouse: delux m800 pro(paw 3395)
+keyboard: akko 5075b plus(v3 pro cream yellow)
+keypad: sayodevice o3c
+
+microphone: fifine a8
+headphones: logitech g435
+
+graphic tablet: xp-pen star g640
+------------------------------------------------------------------------------------------
+*all socials in bio (deridray.carrd.co)*
 ```
