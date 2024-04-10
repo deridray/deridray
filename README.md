@@ -16,7 +16,7 @@ in summer 2022 i made a database for a cafe site with my friend
 in february 2023 my friend told me abt linux, and i tried it(first 2 attempts of using linux was terrible)
 at the end of 2023 i do 3rd attempt for linux, and, luckily, i loved it so much(thanks, qugalet)
 ------------------------------------------------------------------------------------------
->>> pc specs/devices
+>>> pc/devices
 laptop: acer aspire a315-53g-53qx
 monitor: samsung c27r500fhi
 
