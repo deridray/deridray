@@ -22,12 +22,12 @@ monitor: samsung c27r500fhi
 
 mouse: delux m800 pro(paw 3395)
 keyboard: akko 5075b plus(v3 pro cream yellow)
-keypad: sayodevice o3c
+keypad: sayodevice o3c(geonworks raptor he)
 
 microphone: fifine a8
 headphones: logitech g435
 
 graphic tablet: xp-pen star g640
 ------------------------------------------------------------------------------------------
-*all socials in bio (deridray.carrd.co)*
+*all socials in bio (owodray.cc)*
 ```
