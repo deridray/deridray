@@ -14,7 +14,7 @@ andrew
 ukraine
 can write a simple site using **html** with **css** and do a database for it using **php**
 in 2021 made a small company with friend
-in summer 2022 i made a database for a cafe site with my frien
+in summer 2022 i made a database for a cafe site using php
 ------------------------------------------------------------------------------------------
 >>> pc/devices
 laptop: acer aspire a315-53g-53qx
