@@ -9,9 +9,7 @@ gpu: geforce mx130 2gb
 ram: 8gb, ddr4
 ------------------------------------------------------------------------------------------
 >>> about
-andrew
-14 y.o.
-ukraine
+andrew, 14 y.o, live in ukraine
 can write a simple site using **html** with **css** and do a database for it using **php**
 in 2021 made a small company with friend
 in summer 2022 i made a database for a cafe site using php
