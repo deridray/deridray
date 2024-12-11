@@ -25,7 +25,7 @@ keypad: sayodevice o3c(geonworks raptor he)
 microphone: fifine a8
 headphones: logitech g435
 
-graphic tablet: xp-pen star g640
+graphic tablet: wacom ctl-472-n
 ------------------------------------------------------------------------------------------
 *all socials in bio (owodray.cc)*
 ```
