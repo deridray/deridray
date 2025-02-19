@@ -1,6 +1,5 @@
 ### ~ deridray@deridray
 ------------------------------------------------------------------------------------------
-```
 >>> neofetch
 os: arch linux
 wm: bspwm
@@ -24,4 +23,3 @@ microphone : fifine a8
 headphones : logitech g435
 ------------------------------------------------------------------------------------------
 *all socials in bio (owodray.cc)*
-```
