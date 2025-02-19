@@ -25,4 +25,4 @@
 ![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=htmx)
 ![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=wt19wrm4f6ify92jvc84sjz0u&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wt19wrm4f6ify92jvc84sjz0u&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wt19wrm4f6ify92jvc84sjz0u&redirect=true)
