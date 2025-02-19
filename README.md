@@ -12,7 +12,7 @@
 ### socials:
 
 [![osu!](https://img.shields.io/badge/osu-090909?style=for-the-badge&logo=osu)](https://osu.ppy.sh/users/28285968)
-[![tiktok](https://img.shields.io/badge/tiktok-090909?style=for-the-badge&logo=tiktok)](https://tiktok.com/deridray)
+[![tiktok](https://img.shields.io/badge/tiktok-090909?style=for-the-badge&logo=tiktok)](https://tiktok.com/@deridray)
 [![twitch](https://img.shields.io/badge/twitch-090909?style=for-the-badge&logo=twitch)](https://twitch.tv/deridray)
 [![youtube](https://img.shields.io/badge/youtube-090909?style=for-the-badge&logo=youtube)](https://youtube.com/@deridray)
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deridray)
