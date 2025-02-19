@@ -11,17 +11,18 @@
 
 ### socials:
 
-[![osu!](https://img.shields.io/badge/osu-090909?style=for-the-badge&logo=osu)](https://osu.ppy.sh/users/28285968)
-[![tiktok](https://img.shields.io/badge/tiktok-090909?style=for-the-badge&logo=tiktok)](https://tiktok.com/@deridray)
 [![twitch](https://img.shields.io/badge/twitch-090909?style=for-the-badge&logo=twitch)](https://twitch.tv/deridray)
 [![youtube](https://img.shields.io/badge/youtube-090909?style=for-the-badge&logo=youtube)](https://youtube.com/@deridray)
+[![tiktok](https://img.shields.io/badge/tiktok-090909?style=for-the-badge&logo=tiktok)](https://tiktok.com/@deridray)
 [![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/deridray)
 [![discord](https://img.shields.io/badge/discord-090909?style=for-the-badge&logo=discord)](https://discord.gg/jy7MdAPhM3)
+[![osu!](https://img.shields.io/badge/osu-090909?style=for-the-badge&logo=osu)](https://osu.ppy.sh/users/28285968)
 
 ### languages:
 
 ![linux](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux)
 ![python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
+![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
 ![html](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=htmx)
 ![css](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
 
