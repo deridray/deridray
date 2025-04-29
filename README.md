@@ -27,6 +27,6 @@
 [![telegram](https://img.shields.io/badge/telegram-333?style=for-the-badge&logo=telegram)](https://t.me/deridray)
 [![discord](https://img.shields.io/badge/discord-333?style=for-the-badge&logo=discord)](https://discord.gg/jy7MdAPhM3)
 
-## donate
+### donate
 
 [![patreon](https://img.shields.io/badge/patreon-333?style=for-the-badge&logo=patreon)](https://patreon.com/deridray)
