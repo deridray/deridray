@@ -1,7 +1,7 @@
 # i use arch btw
 **os:** arch linux
 
-**de:** bspwm
+**wm:** bspwm
 
 **cpu:** i5-7200u
 
