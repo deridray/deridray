@@ -1,7 +1,7 @@
 # i use arch btw
-**os:** endeavouros
+**os:** arch linux
 
-**de:** kde plasma
+**de:** bspwm
 
 **cpu:** i5-7200u
 
