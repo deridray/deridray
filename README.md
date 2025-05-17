@@ -3,11 +3,11 @@
 
 **wm:** bspwm
 
-**cpu:** i5-7200u
+**cpu:** i5-12450hx
 
-**gpu:** geforce mx130 2gb
+**gpu:** geforce rtx 4050 6gb
 
-**ram:** 8gb dd4
+**ram:** 16gb ddr5
 
 
 ### tools / languages:
