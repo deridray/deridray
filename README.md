@@ -3,7 +3,7 @@
 
 **wm:** bspwm
 
-**cpu:** i5-12450hx
+**cpu:** ryzen 7 7435hs
 
 **gpu:** geforce rtx 4050 6gb
 
