@@ -1,7 +1,7 @@
 # i use arch btw
 **os:** arch linux
 
-**wm:** bspwm
+**wm:** hyprland
 
 **cpu:** ryzen 7 7435hs
 
