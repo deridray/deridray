@@ -1,11 +1,7 @@
 <div align=center>
 
 # i use arch btw
-**os**: arch<br>
-**wm**: hypr<br>
-**cpu**: ryzen 7 7435hs<br>
-**gpu**: rtx 4050 6 gib<br>
-**ram**: 16 gib / ddr5
+**linux enthusiast, open source lover, backend developer**
 
 ### tools / languages:
 
