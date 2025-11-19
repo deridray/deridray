@@ -1,14 +1,4 @@
-# i use arch btw
-**os:** arch linux
-
-**wm:** hyprland
-
-**cpu:** ryzen 7 7435hs
-
-**gpu:** geforce rtx 4050 6gb
-
-**ram:** 16gb ddr5
-
+<div align=center>
 
 ### tools / languages:
 
@@ -30,3 +20,4 @@
 ### donate:
 
 [![patreon](https://img.shields.io/badge/patreon-333?style=for-the-badge&logo=patreon)](https://patreon.com/deridray)
+</div>
